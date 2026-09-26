@@ -1,0 +1,16 @@
+
+> practice1@0.1.0 dev
+> next dev --port 3000
+
+▲ Next.js 16.3.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.110:3000
+✓ Ready in 977ms
+✓ Running next.config.ts took 174ms
+Creating turbopack project {
+  dir: 'C:\\Users\\user\\Desktop\\ai\\ai-coding無痛上手\\practice1',
+  testMode: true
+}
+
+ GET / 200 in 318ms (next.js: 192ms, application-code: 126ms)
+ GET / 200 in 41ms (next.js: 3ms, application-code: 38ms)
